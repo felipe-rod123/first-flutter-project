@@ -1,5 +1,5 @@
 # first-flutter-project
-My first Flutter personal project
+My first Flutter personal project! Hello, world!
 
 ## Mobile development setup for Ubuntu
 Quick guide on environment settings and installs to start developing flutter applications on Ubuntu.
